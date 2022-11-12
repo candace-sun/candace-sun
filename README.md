@@ -1,5 +1,11 @@
-### Hi there 👋
+### 👋 Hi, I'm Candace Sun
+♀️ Pronouns: she/her
 
+🌱 I’m currently learning React.js and MySQL
+
+🔮 My languages: Java, JS (jQuery), HTML, CSS, Python (OpenCV, scikit-learn), C++ 
+
+🌍 Based in College Park, Maryland, USA
 <!--
 **candace-sun/candace-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

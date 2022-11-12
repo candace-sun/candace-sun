@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Candace Sun
-♀️ Pronouns: she/her
+📌 Pronouns: she/her
 
-🌱 I’m currently learning React.js and MySQL
+💡 I'm interested in the intersection of design and technology!
 
 🔮 My languages: Java, JS (jQuery), HTML, CSS, Python (OpenCV, scikit-learn), C++ 
+
+🌱 I’m currently learning React.js and MySQL
 
 🌍 Based in College Park, Maryland, USA
 <!--

@@ -3,9 +3,9 @@
 
 💡 I'm interested in the intersection of design and technology
 
-🔮 My languages: Java, JS (jQuery), HTML, CSS, Python (OpenCV, scikit-learn), C++ 
+🔮 My languages: Java, JavaScript (jQuery), HTML, CSS, Python (OpenCV, scikit-learn), C, C++ 
 
-🌱 I’m currently learning React.js and MySQL
+🌱 I’m currently learning React.js and PostgreSQL
 
 🌍 Based in College Park, Maryland, USA
 <!--

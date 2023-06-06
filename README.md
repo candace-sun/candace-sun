@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Candace Sun
 📌 Pronouns: she/her
 
-💡 I'm interested in the intersection of design and technology
+💡 I'm interested in the intersection of design and technology and creating useful, innovative products
 
 🛠 My languages: Java, Python (OpenCV, scikit-learn), C, C++, SQL (PostgreSQL), JavaScript (React, jQuery), HTML, CSS
 

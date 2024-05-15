@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Candace Sun
 📌 Pronouns: she/her
 
-💡 I'm interested in the intersection of design and technology and creating useful, innovative products
+💡 I'm interested in the intersection of design and technology and creating useful, innovative solutions
 
-🛠 My languages: Java, Python (OpenCV, scikit-learn), C, C++, SQL (PostgreSQL), JavaScript (React, jQuery), HTML, CSS
+🛠 My languages: JavaScript (React, Node.js, Express, jQuery), Python, Java, C, C++, HTML, CSS, SQL (PostgreSQL)
 
 🌍 Based in College Park, Maryland, USA
 <!--
